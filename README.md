@@ -1,11 +1,14 @@
 
-# 🌸rin, @r6nted/loonaverrsse
-
-> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R6DGBBH) [![youtube](https://images.weserv.nl/?url=https://img.shields.io/youtube/channel/subscribers/UCh7eAzu4edD9LcRch0r_Cfg?style=for-the-badge?v=4&h=29&w=150&fit=cover&mask=&maxage=7d)](https://www.youtube.com/channel/UCh7eAzu4edD9LcRch0r_Cfg)
-
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r6nted&theme=dracula&layout=compact" width=414>
-<img src="https://github-readme-stats.vercel.app/api?username=r6nted&theme=dracula" width=420>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=r6nted&repo=yt-dl&theme=dracula" width=415>
+<div>
+<h2 align="center">r6nted</h2>
+ <br>
+<p>
+  <div align="center">
+<img src="https://c.tenor.com/N-yx-99p76wAAAAM/odd-eye-loona.gif" align="right" width="399">
+  </div>
 </div>
+<div>
+<p align="center"><img src="https://img.shields.io/badge/-Adobe%20After%20Effects-481d4a?style=for-the-badge&logo=adobe"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+<bold><samp>ig: r6nted <br> twt: loonaverrsse<br> yt: r6nted</samp></bold>
+</p>
