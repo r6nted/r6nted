@@ -4,7 +4,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://c.tenor.com/N-yx-99p76wAAAAM/odd-eye-loona.gif" align="right" width="399">
+<img src="https://lanyard.cnrad.dev/api/898703829430857729" align="right" />
   </div>
 </div>
 <div>
