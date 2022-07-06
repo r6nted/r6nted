@@ -1,12 +1,8 @@
-
-<div>
-<h2 align="center">r6nted</h2>
- <br>
+<br>
 <p>
   <div align="center">
 <img src="https://lanyard.cnrad.dev/api/898703829430857729" align="right" />
   </div>
-</div>
 <div>
  
  ---
