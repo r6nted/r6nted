@@ -1,15 +1,32 @@
-<br>
+
 <p>
   <div align="center">
-<img src="https://lanyard.cnrad.dev/api/898703829430857729" align="right" />
+<img src="https://lanyard.cnrad.dev/api/898703829430857729" align="right" width="350"/>
   </div>
 <div>
  
  ---
  
-<p align="center"><img src="https://img.shields.io/badge/-Adobe%20After%20Effects-481d4a?style=for-the-badge&logo=adobe"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-<bold><samp>ig: r6nted <br> twt: loonaverrsse<br> yt: r6nted</samp></bold>
-</p>
+ <h3 align="center">r6nted‏‏‎ ‎<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="20"></h3>
+ <div align="center">
+<img src="https://komarev.com/ghpvc/?username=r6nted"><br>
+   <div align="center">
+   <a href="https://twitter.com/loonaverrsse">Twitter</a> · <a href="https://instagram.com/r6nted">Instagram</a>
+   <br/>
+   <strong>DISCORD UID</strong>: <code>898703829430857729</code>
+</div>
+</div>
 
  ---
+
+<h3>projects‏‏‎ ‎‏‏‎ 🌑‏‏‎‏‏‎‏‏‎‏‏‎</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=r6nted&repo=discord-welcome-card&theme=vue-dark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=addEnvy&repo=bot&theme=vue-dark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=r6nted&repo=pingr&theme=vue-dark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=r6nted&repo=discord-token-validator&theme=vue-dark" width="467">
+
+ ---
+  
+<h3>statistics‏‏‎ ‎‏‏‎ 💚</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r6nted&layout=compact&theme=vue-dark"> <img src="https://github-readme-stats.vercel.app/api?username=r6nted&theme=vue-dark" width="419">
+
+
