@@ -18,8 +18,8 @@
     <th>Know</th>
   </tr>
   <tr>
-    <th><img src="https://skillicons.dev/icons?i=typescript"> <img src="https://skillicons.dev/icons?i=firebase"> <img src="https://skillicons.dev/icons?i=illustrator"> <img src="https://skillicons.dev/icons?i=svelte"> <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=deno"></th>
+    <th><img src="https://skillicons.dev/icons?i=typescript"> <img src="https://skillicons.dev/icons?i=firebase"> <img src="https://skillicons.dev/icons?i=svelte"> <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=deno"></th>
     <th>
-    <img src="https://skillicons.dev/icons?i=html"> <img src="https://skillicons.dev/icons?i=js"> <img src="https://skillicons.dev/icons?i=css"> <img src="https://skillicons.dev/icons?i=sass"><img src="https://skillicons.dev/icons?i=nodejs"> <img src="https://skillicons.dev/icons?i=supabase"> <img src="https://skillicons.dev/icons?i=vscode"> <img src="https://skillicons.dev/icons?i=lua"> <img src="https://skillicons.dev/icons?i=git"> <img src="https://skillicons.dev/icons?i=github"></th>
+    <img src="https://skillicons.dev/icons?i=html"> <img src="https://skillicons.dev/icons?i=js"> <img src="https://skillicons.dev/icons?i=css"> <img src="https://skillicons.dev/icons?i=sass"><img src="https://skillicons.dev/icons?i=nodejs"> <img src="https://skillicons.dev/icons?i=supabase"> <img src="https://skillicons.dev/icons?i=vscode"> <img src="https://skillicons.dev/icons?i=lua"> <img src="https://skillicons.dev/icons?i=git"></th>
   </tr>
 </table></table>
