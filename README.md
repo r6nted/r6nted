@@ -1,3 +1,4 @@
+
 <div id="top" align="center">
 <img src="https://github.com/r6nted/r6nted/blob/main/image(9).png?raw=true">
 <h2>Hello!  👋</h2>
@@ -13,5 +14,9 @@
 </table>
 <h3>Tech Stack</h3>
 <div align="center">
-<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.png"></code> ● ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 35%
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.png"></code> ● ██████░░░░<br>
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></code> ● ████████░░<br>
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/svelte/svelte.png"></code> ● █████░░░░░<br>
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.png"></code> ● █████████░<br>
+<code><img height="25" src="https://authy.com/wp-content/uploads/npm-logo.png"></code> ● ███████░░<br>
 </div>
