@@ -12,14 +12,6 @@
   </tr>
 </table>
 <h3>Tech Stack</h3>
-<table>
-<tr>
-    <th>Learning</th>
-    <th>Know</th>
-  </tr>
-  <tr>
-    <th><img src="https://skillicons.dev/icons?i=typescript"> <img src="https://skillicons.dev/icons?i=firebase"> <img src="https://skillicons.dev/icons?i=svelte"> <img src="https://skillicons.dev/icons?i=react"> <img src="https://skillicons.dev/icons?i=deno"></th>
-    <th>
-    <img src="https://skillicons.dev/icons?i=html"> <img src="https://skillicons.dev/icons?i=js"> <img src="https://skillicons.dev/icons?i=css"> <img src="https://skillicons.dev/icons?i=sass"><img src="https://skillicons.dev/icons?i=nodejs"> <img src="https://skillicons.dev/icons?i=supabase"> <img src="https://skillicons.dev/icons?i=vscode"> <img src="https://skillicons.dev/icons?i=lua"> <img src="https://skillicons.dev/icons?i=git"></th>
-  </tr>
-</table></table>
+<div align="center">
+<code><img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.png"></code> ● ███████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 35%
+</div>
